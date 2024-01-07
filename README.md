@@ -1,0 +1,1 @@
+Using ResNet50 for soil classification is a great idea. ResNet50 is a deep neural network architecture that has been proven effective for various computer vision tasks, including image classification. Here's a high-level overview of how you can approach the task of classifying five types of soil using ResNet50
